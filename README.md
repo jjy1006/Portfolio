@@ -9,7 +9,7 @@
 
 **담당 역할**: 프로젝트 전반 (기획, 디자인, 백엔드, 프론트엔드)
 
-**GitHub Repository**: [GitHub 링크]()
+**GitHub Repository**: [GitHub 링크](https://github.com/Helluoo/bank)
 
 **Youtube 시연영상**: [시연 영상 링크]()
 
