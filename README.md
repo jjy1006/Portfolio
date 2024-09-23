@@ -53,7 +53,7 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 
 **담당 역할**:  데이터셋 수집, 모델 개발, GUI 구현 
 
-**GitHub Repository**: [GitHub 링크](https://github.com/Helluoo/bank)
+**GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/Basil)
 
 **Youtube 시연영상**: [시연 영상 링크]()
 
