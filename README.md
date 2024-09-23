@@ -15,7 +15,7 @@
 
 **개발인원** : 2명 
 
-**담당 역할**: 프로젝트 전반 (기획, 디자인, 백엔드, 프론트엔드)
+**담당 역할**: 요구사항 설계, DB 설계 , 백엔드, 프론트앤드, 디자인 
 
 **GitHub Repository**: [GitHub 링크](https://github.com/Helluoo/bank)
 
