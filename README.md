@@ -39,7 +39,12 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 ## 식물인식 판별기(개인) 
 2024.04.20 ~ 2024.06.25
 
-**사용 기술**: Python, scikit-learn, Random Forest, OpenCV, Tkinter
+**🛠 사용 기술**:  
+![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) 
+![Scikit-learn Badge](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
+![Random Forest Badge](https://img.shields.io/badge/Random_Forest-%2366CCFF.svg?style=flat-square&logoColor=white) 
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) 
+![Tkinter Badge](https://img.shields.io/badge/Tkinter-%23FF6347.svg?style=flat-square&logo=python&logoColor=white) 
 
 **개발인원** : 1명 
 
