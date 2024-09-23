@@ -80,11 +80,8 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 
 
 **🛠 사용 기술**:  
-![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)  
-![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)  
-![MediaPipe Badge](https://img.shields.io/badge/MediaPipe-%23FF3D00.svg?style=flat-square&logo=google&logoColor=white)  
-![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)  
-![KNN Badge](https://img.shields.io/badge/KNN-%234C8C4A.svg?style=flat-square&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe Badge](https://img.shields.io/badge/MediaPipe-%23FF3D00.svg?style=flat-square&logo=google&logoColor=white) ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![KNN Badge](https://img.shields.io/badge/KNN-%234C8C4A.svg?style=flat-square&logoColor=white)
+
 
 
 **담당 역할**:  데이터 수집, 영상 처리, 제스처 인식, 손가락 감지 및 추적, 결과 출력 
