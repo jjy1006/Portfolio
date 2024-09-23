@@ -19,7 +19,7 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 
 ### 세부 기능
 - 회원가입 및 계좌 개설
-- Transaction 처리를 통한 당행 계좌 조회/이체 및 오픈뱅킹
+- Transaction 처리를 통한  계좌 조회/이체
 
 
 
