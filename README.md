@@ -73,7 +73,37 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 
 ### 해결
 
+---
 
+## 영화추천 웹페이지(개인)
+2023.04.15 ~ 2023.04.17
+
+
+**🛠 사용 기술**:  
+![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+
+**담당 역할**:  기획,디자인,프론트엔드 
+
+**GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/netflix)
+
+
+
+### 프로젝트 설명
+사용자에게 카테고리별 영화추천 서비스를 제공하는 것을 목적으로 하는 영화추천 웹페이지를 만드는 것을 목표로 삼았습니다.
+
+### 세부 기능
+- 훈련된 모델을 사용해 사용자가 업로드한 이미지를 바질 또는 인삼으로 분류
+- GUI를 통해 이미지 업로드 및 결과를 직관적으로 확인 가능
+- 이미지 전처리 및 분류 결과를 실시간으로 제공
+
+
+
+### 문제
+
+
+### 해결
 
 
 
