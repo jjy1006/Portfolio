@@ -1,5 +1,8 @@
-# 프로젝트이력
-뱅킹 웹 서비스(팀) 
+# 정주연 포트폴리오
+
+## 프로젝트 이력
+
+### 1. 오픈뱅킹 웹 서비스 (팀 프로젝트) 
 2024.04.20 ~ 2024.06.25
 
 **사용 기술**: Java, Spring, mybatis, javascript, jsp,  oracle database, html, css
