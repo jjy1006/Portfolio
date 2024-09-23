@@ -75,6 +75,43 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 
 ---
 
+## 수어인식 변역기(개인)
+2024.05.01 ~ 2024.06.14
+
+
+**🛠 사용 기술**:  
+![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)  
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)  
+![MediaPipe Badge](https://img.shields.io/badge/MediaPipe-%23FF3D00.svg?style=flat-square&logo=google&logoColor=white)  
+![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)  
+![KNN Badge](https://img.shields.io/badge/KNN-%234C8C4A.svg?style=flat-square&logoColor=white)
+
+
+**담당 역할**:  데이터 수집, 영상 처리, 제스처 인식, 손가락 감지 및 추적, 결과 출력 
+
+**GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/Basil)
+
+
+
+### 프로젝트 설명
+실시간으로 수어 알파벳을 인식하는 애플리케이션을 개발하는것을 목표로 하였습니다.  OpenCV와 MediaPipe를 활용하여 웹캠에서 손의 위치와 동작을 감지하고, KNN 알고리즘을 통해 수어 제스처를 인식 사용자는 손의 제스처를 통해 알파벳을 입력할 수 있으며, 인식된 결과는 화면에 표시됩니다. 
+
+### 세부 기능
+- 손가락 인식: MediaPipe를 사용하여 손가락의 위치를 실시간으로 추적
+- 제스처 인식: KNN 알고리즘을 통해 수어 알파벳 제스처를 인식하고 출력
+- 데이터 수집: 손 제스처 각도를 데이터로 저장
+- 시각적 피드백: 인식된 제스처를 화면에 텍스트로 표시하여 사용자가 결과를 확인할 수 있도록 함.
+- 사용자 인터페이스: 간단한 UI를 통해 직관적으로 사용할 수 있도록 설계.
+
+
+
+### 문제
+
+
+### 해결
+
+---
+
 ## 영화추천 웹페이지(개인)
 2023.04.15 ~ 2023.04.17
 
