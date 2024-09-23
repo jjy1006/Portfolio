@@ -1,7 +1,7 @@
 # 프로젝트이력
 뱅킹 웹 서비스(팀) 
 2024.04.20 ~ 2024.06.25
-Java, Spring, MyBatis, JavaScript, JSP, Oracle DB, HTML, CSS 
+
 **사용 기술**: Java, Spring, mybatis, javascript, jsp,  oracle database, html, css
 
 **개발인원** : 2명 
@@ -12,14 +12,16 @@ Java, Spring, MyBatis, JavaScript, JSP, Oracle DB, HTML, CSS
 
 **Youtube 시연영상**: [시연 영상 링크]()
 
-### 오픈뱅킹서비스 프로젝트 설명
+### 프로젝트 설명
 Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 뱅킹 웹서비스 개발
 
 ### 세부 기능
 - 회원가입 및 계좌 개설
 - Transaction 처리를 통한  계좌 조회/이체
 
+### 문제점
 
+### 해결방안
 
 
 ---
