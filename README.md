@@ -1,4 +1,4 @@
-![화면 캡처 2024-09-23 172329](https://github.com/user-attachments/assets/12b21082-6861-4b3b-b238-64c7df90bec7)## 프로젝트 이력
+
 
 ### 1. 오픈뱅킹 웹 서비스 (팀 프로젝트) 
 2024.04.20 ~ 2024.06.25
@@ -38,6 +38,7 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 
 ## 식물인식 판별기(개인) 
 2024.04.20 ~ 2024.06.25
+![Uploading 화면 캡처 2024-09-23 172329.png…]()
 
 **🛠 사용 기술**:  
 ![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) 
