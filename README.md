@@ -37,8 +37,8 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 ---
 
 
-## 식물인식 판별기(개인) 
-2024.04.20 ~ 2024.06.25
+## 식물인식 판별기(개인)
+2024.05.01 ~ 2024.06.14
 
 
 **🛠 사용 기술**:  
@@ -48,8 +48,6 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) 
 ![Tkinter Badge](https://img.shields.io/badge/Tkinter-%23FF6347.svg?style=flat-square&logo=python&logoColor=white) 
 
-
-**개발인원** : 1명 
 
 **담당 역할**:  데이터셋 수집, 모델 개발, GUI 구현 
 
@@ -64,6 +62,11 @@ Java 로 MyBatis , Spring 프레임워크 사용해 은행의 기능을 갖춘 �
 - 훈련된 모델을 사용해 사용자가 업로드한 이미지를 바질 또는 인삼으로 분류
 - GUI를 통해 이미지 업로드 및 결과를 직관적으로 확인 가능
 - 이미지 전처리 및 분류 결과를 실시간으로 제공
+
+- 데이터 수집
+  - 촬영기종 = iPhone 12 Pro
+  - 훈련 데이터셋 : 423장 , 검증 데이터셋 51장
+
 
 ### 문제
 
