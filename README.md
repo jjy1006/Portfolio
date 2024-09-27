@@ -4,34 +4,37 @@
 2024.04.20 ~ 2024.06.25
 
 **🛠 사용 기술**:  
-![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
-![MyBatis Badge](https://img.shields.io/badge/MyBatis-%23ED8B00.svg?style=flat-square&logo=MyBatis&logoColor=white) 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
-![JSP Badge](https://img.shields.io/badge/JSP-%230769AD.svg?style=flat-square&logoColor=white) 
-![Oracle Badge](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white) 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
+![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
+![MyBatis Badge](https://img.shields.io/badge/MyBatis-%23ED8B00.svg?style=flat-square&logo=MyBatis&logoColor=white)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![JSP Badge](https://img.shields.io/badge/JSP-%230769AD.svg?style=flat-square&logoColor=white)  
+![Oracle Badge](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)  
+![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-**개발인원** : 2명 
+**개발인원** : 2명  
 
-**담당 역할**: 요구사항 설계, DB 설계 , 백엔드, 프론트앤드, 디자인 
+**담당 역할**: 요구사항 설계, DB 설계, 백엔드, 프론트엔드, 디자인  
 
 **GitHub Repository**: [GitHub 링크](https://github.com/Helluoo/bank)
 
-
-
 ### 프로젝트 설명
-회원가입 , 계좌생성, 상품가입, 계좌이체 서비스를 제공하고 이를 위한 관리자 기능을 사용할 수 있는 Spring 프레임워크 기반의 웹서비스입니다. 
+본 프로젝트는 Spring 프레임워크를 기반으로 한 뱅킹 웹 서비스로, 사용자가 쉽게 금융 서비스를 이용할 수 있도록 설계되었습니다. 회원가입, 계좌 생성, 상품 가입, 계좌 이체 등의 기능을 제공하며, 이를 위한 관리자 기능도 구현하였습니다. 사용자 인터페이스는 직관적으로 설계되어 사용자가 원하는 기능을 손쉽게 접근할 수 있도록 하였습니다. 
 
 ### 세부 기능
-- MVC 패턴
-- 회원가입 및 계좌 개설
-- Transaction 처리를 통한  계좌 조회/이체
-
+- **MVC 패턴**: Model-View-Controller 구조를 통해 코드의 유지보수성과 확장성을 높였습니다.
+- **회원가입 및 계좌 개설**: 사용자는 개인 정보를 입력하여 간편하게 회원가입 후 계좌를 개설할 수 있습니다.
+- **Transaction 처리**: 계좌 이체 및 조회 기능을 구현하여, 사용자가 자신의 계좌 잔액을 확인하고 다른 계좌로 이체할 수 있도록 하였습니다.
+- **관리자 기능**: 관리자는 사용자 계좌를 관리하고, 계좌 상태를 확인하며 필요한 조치를 취할 수 있습니다.
+  
 ### 문제
+- 사용자 정보 입력 시 유효성 검증이 부족하여 잘못된 정보가 입력될 가능성이 있었습니다.
+- 동시 사용자가 많을 경우 서버의 응답 속도가 느려지는 문제가 발생했습니다.
 
 ### 해결
+- 유효성 검증을 추가하여 사용자 정보 입력 시 실시간으로 오류를 확인할 수 있도록 하였습니다.
+- 데이터베이스 쿼리 최적화 및 서버의 부하 분산을 통해 성능을 개선하여 동시 사용자가 많을 경우에도 안정적인 서비스를 제공할 수 있도록 하였습니다.
 
 
 ---
