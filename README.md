@@ -101,8 +101,10 @@
 - 데이터 수집
   - 촬영기종 = iPhone 12 Pro
   - 훈련 데이터셋 : 423장 , 검증 데이터셋 51장
-
-![이미지](https://github.com/jjy1006/Basil/blob/master/result.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/jjy1006/Basil/blob/master/aaa.png" alt="Aaa Page" style="width: 48%; height: auto;">
+  <img src="https://github.com/jjy1006/Basil/blob/master/result.png" alt="Result Page" style="width: 48%; height: auto;">
+</div>
 
 ### 문제
 
