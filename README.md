@@ -76,36 +76,34 @@
 
 ---
 
-## 수어인식 변역기(개인)
+## 수어인식 변역기(개인)  
 2024.06.01 ~ 2024.06.30
-
 
 **🛠 사용 기술**:  
 ![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe Badge](https://img.shields.io/badge/MediaPipe-%23FF3D00.svg?style=flat-square&logo=google&logoColor=white) ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![KNN Badge](https://img.shields.io/badge/KNN-%234C8C4A.svg?style=flat-square&logoColor=white)
 
+**담당 역할**: 데이터 수집, 영상 처리, 제스처 인식, 손가락 감지 및 추적, 결과 출력 
 
-
-**담당 역할**:  데이터 수집, 영상 처리, 제스처 인식, 손가락 감지 및 추적, 결과 출력 
-
-**GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/Basil)
-
-
+**GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/sign)
 
 ### 프로젝트 설명
-실시간으로 기초적인 알파벳 수어 동작을 인식하여 번역해주는  애플리케이션을 개발하는것을 목표로 하였습니다. OpenCV와 MediaPipe를 활용하여 웹캠에서 손의 위치와 동작을 감지하고, KNN 알고리즘을 통해 수어 제스처를 인식 사용자는 손의 제스처를 통해 알파벳을 입력할 수 있으며, 인식된 결과는 화면에 표시됩니다.
+실시간으로 기초적인 알파벳 수어 동작을 인식하여 번역해주는 애플리케이션을 개발하는 것을 목표로 하였습니다. OpenCV와 MediaPipe를 활용하여 웹캠에서 손의 위치와 동작을 감지하고, KNN 알고리즘을 통해 수어 제스처를 인식합니다. 사용자는 손의 제스처를 통해 알파벳을 입력할 수 있으며, 인식된 결과는 화면에 표시됩니다.
+
 ### 세부 기능
-- 손가락 인식: MediaPipe를 사용하여 손가락의 위치를 실시간으로 추적
-- 제스처 인식: KNN 알고리즘을 통해 수어 알파벳 제스처를 인식하고 출력
-- 데이터 수집: 손 제스처 각도를 데이터로 저장
-- 시각적 피드백: 인식된 제스처를 화면에 텍스트로 표시하여 사용자가 결과를 확인할 수 있도록 함.
-- 사용자 인터페이스: 간단한 UI를 통해 직관적으로 사용할 수 있도록 설계.
-
-
+- **손가락 인식:** MediaPipe를 사용하여 손가락의 위치를 실시간으로 추적
+- **제스처 인식:** KNN 알고리즘을 통해 수어 알파벳 제스처를 인식하고 출력
+- **데이터 수집:** 손 제스처 각도를 데이터로 저장
+- **시각적 피드백:** 인식된 제스처를 화면에 텍스트로 표시하여 사용자가 결과를 확인할 수 있도록 함
+- **사용자 인터페이스:** 간단한 UI를 통해 직관적으로 사용할 수 있도록 설계
 
 ### 문제
-
+- 다양한 조명 및 배경 조건에서 손 제스처 인식의 정확도가 저하될 수 있음
+- 특정 제스처 인식 시 실시간 반응 속도가 느려질 수 있음
 
 ### 해결
+- 조명 및 배경에 따른 다양한 데이터셋을 수집하여 모델의 학습 데이터를 다양화함
+- KNN 알고리즘의 이웃 수를 조정하여 인식 정확도를 향상시킴
+- 웹캠의 해상도를 조정하고, 필요한 경우 프레임 속도를 최적화하여 반응 속도를 개선함
 
 ---
 
