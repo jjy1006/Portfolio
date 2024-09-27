@@ -4,14 +4,15 @@
 2024.04.20 ~ 2024.06.25
 
 **🛠 사용 기술**:  
-![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
-![MyBatis Badge](https://img.shields.io/badge/MyBatis-%23ED8B00.svg?style=flat-square&logo=MyBatis&logoColor=white)  
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![JSP Badge](https://img.shields.io/badge/JSP-%230769AD.svg?style=flat-square&logoColor=white)  
-![Oracle Badge](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)  
-![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
+![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) 
+![MyBatis Badge](https://img.shields.io/badge/MyBatis-%23ED8B00.svg?style=flat-square&logo=MyBatis&logoColor=white) 
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
+![JSP Badge](https://img.shields.io/badge/JSP-%230769AD.svg?style=flat-square&logoColor=white) 
+![Oracle Badge](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white) 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
 
 **개발인원** : 2명  
 
