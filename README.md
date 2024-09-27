@@ -38,7 +38,7 @@
 - 데이터베이스 쿼리 최적화 및 서버의 부하 분산을 통해 성능을 개선하여 동시 사용자가 많을 경우에도 안정적인 서비스를 제공할 수 있도록 하였습니다.
 
     
-<div style="text-align: center; font-size: 14px; margin-bottom: 5px;">
+<div style="text-align: center; font-size: 14px; margin-bottom: 5px; font-weight: bold; color: #333;">
   <span>이미지 클릭 시 확대해서 볼 수 있습니다.</span>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center;">
