@@ -134,6 +134,7 @@ HTML과 CSS를 활용하여 간단한 영화 추천 웹페이지를 제작하였
   <img src="https://github.com/jjy1006/netflix/raw/master/mainpage.png" alt="Main Page" style="width: 48%; height: auto;">
   <img src="https://github.com/jjy1006/netflix/raw/master/crime_page%202024-09-27%20191343.png" alt="Crime Page" style="width: 48%; height: auto;">
 </div>
+
 ### 문제
 
 
