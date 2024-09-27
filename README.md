@@ -98,9 +98,10 @@
   - 훈련 데이터셋 : 423장 , 검증 데이터셋 51장
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/jjy1006/Basil/raw/master/aaa.png" alt="Aaa Page" style="width: 48%; height: 300px; object-fit: cover;">
-  <img src="https://github.com/jjy1006/Basil/raw/master/result.png" alt="Result Page" style="width: 48%; height: 300px; object-fit: cover;">
+  <img src="https://github.com/jjy1006/Basil/raw/master/aaa.png" alt="Aaa Page" style="width: 55%; height: auto;">
+  <img src="https://github.com/jjy1006/Basil/raw/master/result.png" alt="Result Page" style="width: 45%; height: auto;">
 </div>
+
 
 
 ### 문제
