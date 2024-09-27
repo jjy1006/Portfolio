@@ -67,7 +67,6 @@
 
 ![이미지](https://github.com/jjy1006/sign/blob/master/sign_project.png)
 
-(https://github.com/jjy1006/sign/blob/master/sign_project.png)
 ---
 
 ## 식물인식 판별기(개인)
