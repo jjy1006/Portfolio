@@ -74,7 +74,6 @@
 ## 식물인식 판별기(개인)
 2024.05.01 ~ 2024.06.14
 
-
 **🛠 사용 기술**:  
 ![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) 
 ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
@@ -82,16 +81,12 @@
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) 
 ![Tkinter Badge](https://img.shields.io/badge/Tkinter-%23FF6347.svg?style=flat-square&logo=python&logoColor=white) 
 
-
 **담당 역할**:  데이터셋 수집, 모델 개발, GUI 구현 
 
 **GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/Basil)
 
-
-
 ### 프로젝트 설명
 이미지 분류 모델을 사용하여 바질과 인삼을 구분하는 애플리케이션을 개발하는 것을 목표로 하였습니다. OpenCV를 활용하여 이미지 데이터를 전처리하고, Random Forest 알고리즘을 적용하여 바질과 인삼을 분류하는 모델을 학습시켰습니다. 사용자는 GUI에서 이미지를 업로드하면 해당 식물(바질 또는 인삼)을 실시간으로 예측할 수 있습니다. Tkinter를 이용해 사용자가 이미지 분류 결과를 쉽게 확인할 수 있도록 직관적인 인터페이스를 제공하였습니다.
-
 
 ### 세부 기능
 - 훈련된 모델을 사용해 사용자가 업로드한 이미지를 바질 또는 인삼으로 분류
@@ -101,10 +96,12 @@
 - 데이터 수집
   - 촬영기종 = iPhone 12 Pro
   - 훈련 데이터셋 : 423장 , 검증 데이터셋 51장
+
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/jjy1006/Basil/blob/master/aaa.png" alt="Aaa Page" style="width: 48%; height: auto;">
-  <img src="https://github.com/jjy1006/Basil/blob/master/result.png" alt="Result Page" style="width: 48%; height: auto;">
+  <img src="https://github.com/jjy1006/Basil/raw/master/aaa.png" alt="Aaa Page" style="width: 48%; height: 300px; object-fit: cover;">
+  <img src="https://github.com/jjy1006/Basil/raw/master/result.png" alt="Result Page" style="width: 48%; height: 300px; object-fit: cover;">
 </div>
+
 
 ### 문제
 
