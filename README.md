@@ -38,6 +38,8 @@
 - 데이터베이스 쿼리 최적화 및 서버의 부하 분산을 통해 성능을 개선하여 동시 사용자가 많을 경우에도 안정적인 서비스를 제공할 수 있도록 하였습니다.
 
 ![이미지](https://github.com/jjy1006/bankweb/blob/main/%EB%B1%85%ED%82%B9%20%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+
+![이미지](https://github.com/jjy1006/bankweb/blob/main/DB%EA%B5%AC%EC%84%B1.png)
 ---
 
 ## 수어인식 변역기(개인)  
