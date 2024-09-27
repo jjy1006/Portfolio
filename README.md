@@ -65,6 +65,8 @@
 - KNN 알고리즘의 이웃 수를 조정하여 인식 정확도를 향상시킴
 - 웹캠의 해상도를 조정하고, 필요한 경우 프레임 속도를 최적화하여 반응 속도를 개선함
 
+![이미지](https://github.com/jjy1006/sign/blob/master/sign_project.png)
+
 (https://github.com/jjy1006/sign/blob/master/sign_project.png)
 ---
 
