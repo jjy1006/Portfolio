@@ -36,7 +36,8 @@
 - 간단한 테스트케이스를 작성해 꼼꼼히 검토하며 개발진행 
 
 ### 테스트케이스 예시
-    https://www.notion.so/10e7a9f1adb5809b886dd874e8cb868a?pvs=4
+  **[테스트케이스](https://www.notion.so/10e7a9f1adb5809b886dd874e8cb868a?pvs=4)**
+
 
     
 <div style="text-align: center; font-size: 14px; margin-bottom: 5px; font-weight: bold; color: #333;">
