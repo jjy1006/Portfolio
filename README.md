@@ -94,8 +94,16 @@
 
 **GitHub Repository**: [GitHub 링크](https://github.com/jjy1006/Basil)
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/jjy1006/Basil/raw/master/aaa.png" alt="Aaa Page" style="width: 55%; height: auto;">
+</div>
+
 ### 프로젝트 설명
 이미지 분류 모델을 사용하여 바질과 인삼을 구분하는 애플리케이션을 개발하는 것을 목표로 하였습니다. OpenCV를 활용하여 이미지 데이터를 전처리하고, Random Forest 알고리즘을 적용하여 바질과 인삼을 분류하는 모델을 학습시켰습니다. 사용자는 GUI에서 이미지를 업로드하면 해당 식물(바질 또는 인삼)을 실시간으로 예측할 수 있습니다. Tkinter를 이용해 사용자가 이미지 분류 결과를 쉽게 확인할 수 있도록 직관적인 인터페이스를 제공하였습니다.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/jjy1006/Basil/raw/master/result.png" alt="Result Page" style="width: 45%; height: auto;">
+</div>
 
 ### 세부 기능
 - 훈련된 모델을 사용해 사용자가 업로드한 이미지를 바질 또는 인삼으로 분류
@@ -107,11 +115,6 @@
 - 훈련 데이터셋: 649장
 - 검증 데이터셋: 73장
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/jjy1006/Basil/raw/master/aaa.png" alt="Aaa Page" style="width: 55%; height: auto;">
-  <img src="https://github.com/jjy1006/Basil/raw/master/result.png" alt="Result Page" style="width: 45%; height: auto;">
-</div>
-
 ### 문제
 사용자가 업로드한 이미지에서 바질과 인삼을 정확히 분류하는 것이 필요했습니다. 특히 다양한 배경과 조명 조건에서도 신뢰성 있는 결과를 얻는 것이 도전 과제가 되었습니다.
 
@@ -119,7 +122,6 @@
 1. **데이터 전처리**: OpenCV를 이용하여 이미지를 150x150 크기로 조정하고, 픽셀 값을 0과 1 사이로 정규화하여 모델이 효율적으로 학습할 수 있도록 하였습니다.
 2. **모델 학습**: Random Forest 알고리즘을 사용하여 훈련 데이터를 학습시키고, 모델의 성능을 검증하기 위해 검증 데이터셋을 활용하였습니다. 모델의 정확도를 평가하고, 최적의 성능을 위해 하이퍼파라미터를 조정하였습니다.
 3. **GUI 개발**: Tkinter를 이용해 사용자가 직관적으로 이미지를 업로드하고 결과를 확인할 수 있는 인터페이스를 구현하였습니다.
-
 
 
 
