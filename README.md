@@ -119,7 +119,7 @@
 
 ### 문제
 훈련 데이터에서 **Train Accuracy: 100.00%**와 **Validation Accuracy: 100.00%**를 기록 과적합 현상 
-### 해결
+### 해결 방안 
 1. **데이터 분리**:데이터 분리: 훈련 데이터와 검증 데이터가 서로 겹치지 않도록 설정 필요함
 2. **데이터 증강**: 이미지 회전, 이동, 크기 조정 등의 기법을 활용하여 데이터셋을 증강해 다양한 패턴을 모델이 학습할 수 있도록 함.
 
@@ -152,10 +152,7 @@ HTML과 CSS를 활용하여 간단한 영화 추천 웹페이지를 제작하였
   <img src="https://github.com/jjy1006/netflix/raw/master/crime_page%202024-09-27%20191343.png" alt="Crime Page" style="width: 48%; height: auto;">
 </div>
 
-### 문제
 
-
-### 해결
 
 
 
