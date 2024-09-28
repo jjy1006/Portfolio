@@ -104,7 +104,7 @@
 
 - 데이터 수집
   - 촬영기종 = iPhone 12 Pro
-  - 훈련 데이터셋 : 423장 , 검증 데이터셋 51장
+  - 훈련 데이터셋 : 649장 , 검증 데이터셋 73장
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/jjy1006/Basil/raw/master/aaa.png" alt="Aaa Page" style="width: 55%; height: auto;">
